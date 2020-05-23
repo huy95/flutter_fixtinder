@@ -1,11 +1,9 @@
 # Flutter Tinder Clone
-
-A Clone Tinder HomeScreen
-
+## fix - A Clone Tinder HomeScreen : 
+- bottom_bar
+- content
 ## Result
 
 ![](tinder_clone.png)
 
-### fix : 
- - bottom_bar
- _ content
+
